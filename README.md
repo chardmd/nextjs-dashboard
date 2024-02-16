@@ -14,7 +14,7 @@ Covers the following:
 - Postgres serverless Setup
 - Server Actions
 - Validation and Error Handling
-- Static Pages & SEO
+- SEO
 
 ![Alt Text](/public/opengraph-image.png)
 
