@@ -1,3 +1,5 @@
 ## Next.js Dashboard
 
-Dashboard Application using Next.js
+Dashboard Application built using Next.js
+
+![Alt Text](/public/opengraph-image.png)
